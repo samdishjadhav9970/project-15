@@ -5,7 +5,7 @@
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--15-lightgrey)
 
 
-## Project 15 [Live Link](https://samdish-live-class-project-15.netlify.app)
+## Project 15 [Live Link](https://samdish-project-15.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to create background box for visual design.
